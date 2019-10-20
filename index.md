@@ -5,7 +5,7 @@
 这部分记载关于**IDL**(Interactive Data Language)的心得。
 
 #### 2019.10.20
-在　_PLOT_　中使用关键字 _[xyz]style=5_ 可以无边框。
+在 _PLOT_ 中使用关键字 _[xyz]style=5_ 可以无边框。
 
 ```markdown
 Syntax highlighted code block
