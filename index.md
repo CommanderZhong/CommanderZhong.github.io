@@ -10,12 +10,11 @@
 #### 2019.10.22
 关于变量作用范围: 在 _FUCTION_ 中对传入的变量进行操作是会改变变量的。
 
+### Python
+这部分为**Python**的学习心得。
+
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
