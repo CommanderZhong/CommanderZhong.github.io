@@ -7,6 +7,9 @@
 #### 2019.10.20
 在 _PLOT_ 中使用关键字 _[xyz]style=5_ 可以无边框。
 
+#### 2019.10.22
+关于变量作用范围: 在 _FUCTION_ 中对传入的变量进行操作是会改变变量的。
+
 ```markdown
 Syntax highlighted code block
 
