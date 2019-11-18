@@ -28,6 +28,18 @@ ans =
 20 15 14
 ```
 
+#### 2019.11.18
+IDL的数组降维使用函数 _REFORM_ ；只用星号*是不行的。  
+举例：
+```markdown
+>a = INTARR(10,10,10)
+>b = a[5,*,*]
+>HELP, b, REFORM(b)
+B            INT = Array[1, 10, 10]
+<expression> INT = Array[10, 10]
+```
+举例内容来自[https://malagis.com/reform-idl.html](https://malagis.com/reform-idl.html)
+
 ### Python
 这部分为**Python**的学习心得。
 
